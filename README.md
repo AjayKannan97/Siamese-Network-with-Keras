@@ -1,7 +1,9 @@
 # Siamese-Network-with-Keras
 
 In the Siamese Network, I used one such methodology. The model is trained with convolutional neural network with RMSprop as an optimiser to update the parameters of all the layers using back propagation for both the lines.
+
 Two dataset have been worked out.
+
 Triplet Loss -
 20 alphabets - train & other 6 test - Vertical Split
 Acc - test: 70.42378917378917 (for test set) 
